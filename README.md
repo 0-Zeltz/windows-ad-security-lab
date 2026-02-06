@@ -20,7 +20,7 @@ This lab simulates a small corporate Windows environment with centralized authen
 ## Infrastructure
 
 - OPNsense Firewall  
-- Windows 11 Pro (2x)  
+- Windows 11 Pro  
 - Ubuntu Server / Apache Server  
 - Windows Server (Domain Controller)  
 - Wazuh Agent (SIEM & XDR)  
