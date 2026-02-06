@@ -14,7 +14,7 @@
 
 ## Interfaces
 
-<!-- Insert OPNsense home interface screenshot here -->
+![OPNsense Interface](./images/OPNsense-interface.png)
 
 The network infrastructure was designed to isolate the internal network from direct Internet access, routing all traffic through the OPNsense firewall to simulate a real enterprise architecture.
 
