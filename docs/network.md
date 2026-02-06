@@ -1,5 +1,7 @@
 ## Topology
 
+![OPNsense Dashboard](./images/opnsense-interface.png)
+
 ### Components
 
 - Windows 11 Pro – Domain-joined workstation  
