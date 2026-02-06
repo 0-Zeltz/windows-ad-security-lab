@@ -1,6 +1,6 @@
 ## Topology
 
-![OPNsense Dashboard](./images/opnsense-interface.png)
+![Network Topology](./images/Topology-diagram.png)
 
 ### Components
 
